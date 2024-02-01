@@ -2,11 +2,11 @@
 
 ### A developer, a hobbyist photographer. I’m currently working on:
 
+- [GasbyAI](https://gasbyai.com) all in one domain tools
 - [rebit](https://rebit.co) nocode site builder
 - [ishim](https://ish.im) all in one domain tools
 - [gumanalytics](https://gumanalytics.com) beautiful and simple analytics platform
-- [gumnotes](https://gumnotes.co) write notes that stick
-- and more at [Hieu's Projects](https://hieunguyen.info/projects)
+- and more at [theGums](https://thegums.co)
 
 <br/>
 
