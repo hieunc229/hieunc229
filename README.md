@@ -2,7 +2,7 @@
 
 ### A developer, a hobbyist photographer. I’m currently working on:
 
-- [GasbyAI](https://gasbyai.com) all in one domain tools
+- [GasbyAI](https://gasbyai.com) fancy ChatGPT alternative
 - [rebit](https://rebit.co) nocode site builder
 - [ishim](https://ish.im) all in one domain tools
 - [gumanalytics](https://gumanalytics.com) beautiful and simple analytics platform
