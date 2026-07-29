@@ -26,5 +26,5 @@
 <br/>
 <hr />
 <a title="Gum Analytics" href="https://gumanalytics.com">
-<img src="https://lsn.gumanalytics.com/images/Zl-KeqBU7j/gp.svg" alt="Gum pixels" height="20" width="66" />
+<img src="https://gumanalytics.com/api/pixel/4bde1e1f-1b7b-452d-b960-a469e9673dbe?mode=transparent" alt="Gum pixels" height="20" width="66" />
 </a>
