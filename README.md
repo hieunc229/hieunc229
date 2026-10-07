@@ -25,7 +25,3 @@
 </p>
 <br/>
 <hr />
-
-<a title="Gum Analytics" href="https://gumanalytics.com?ref=github">
-<img src="https://gumanalytics.com/api/embed-graph/4bde1e1f-1b7b-452d-b960-a469e9673dbe?metric=pageviews&amp;days=7&amp;style=overview-mini&amp;track=1&v=20260904" alt="github.com Pageviews for the last 7 days" width="320" height="112" referrerpolicy="unsafe-url" style="max-width:100%;height:auto;image-rendering:pixelated" />
-</a>
