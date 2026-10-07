@@ -1,10 +1,6 @@
 # Hi 👋, I'm Hieu
 
-### A developer, a hobbyist photographer. I’m currently working on:
-
-<br/>
-
-<b align="left">Connect with me:</b>
+A developer, a hobbyist photographer. Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/hieussr" target="blank">
